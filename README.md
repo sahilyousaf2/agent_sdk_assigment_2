@@ -1,2 +1,0 @@
-# agent_sdk_assigment_2
-agent_sdk_assigment_2
